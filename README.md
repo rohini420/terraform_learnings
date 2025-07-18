@@ -4,14 +4,14 @@ This repository contains Terraform configuration files for provisioning Azure in
 
 ## 📋 Table of Contents
 
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Azure Service Principal Setup](#azure-service-principal-setup)
-- [Configuration](#configuration)
-- [Usage](#usage)
-- [Resources Created](#resources-created)
-- [Troubleshooting](#troubleshooting)
-- [Clean Up](#clean-up)
+- [Prerequisites](#Prerequisites)
+- [Installation](#Installation)
+- [Azure Service Principal Setup](#Azure Service Principal Setup)
+- [Configuration](#Configuration)
+- [Usage](#Usage)
+- [Resources Created](#Resources Created)
+- [Troubleshooting](#Troubleshooting)
+- [Clean Up](#Clean Up)
 
 ## 🔧 Prerequisites
 
